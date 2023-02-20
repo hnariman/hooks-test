@@ -11,3 +11,6 @@ if chmod +x was absent
 now using some gist - saving time now )
 
 test one more
+
+well gist wasn't doing the right thing for me
+
